@@ -15,8 +15,8 @@ public class BuildServices {
 
 	@Autowired
 	private RestTemplateBuilder restTemplate;
-	private String username = "hariprasad.srinivas@prudential.co.uk";
-	private String password = "Kuldubond007";
+	private String username = "Your email ID";
+	private String password = "Your password";
 
 	public List<Automation_build> getAllBuilds() {
 
