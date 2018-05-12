@@ -11,8 +11,8 @@ public class PlanService {
 
 	@Autowired
 	private RestTemplateBuilder builder;
-	private String username = "hariprasad.srinivas@prudential.co.uk";
-	private String password = "Kuldubond007";
+	private String username = "Your Email ID";
+	private String password = "Your Password";
 
 	public Plan getPlan() {
 
